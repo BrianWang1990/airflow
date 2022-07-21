@@ -155,7 +155,7 @@ Airflow 2.0
 ~~~~~~~~~~~
 
 * MySQL changed the keys to sign their packages on 17 Feb 2022. This caused all released images
-  to fail when being extended. As result, on 18 Feb 2021 we re-released all
+  to fail when being extended. As result, on 18 Feb 2022 we re-released all
   the ``2.2`` and ``2.1`` images with latest versions of ``Dockerfile``
   containing the new signing key.
 
